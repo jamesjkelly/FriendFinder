@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jamesjkelly/FriendFinder/issues"
   },
-  "homepage": "https://github.com/jamesjkelly/FriendFinder#readme"
+  "homepage": "https://github.com/jamesjkelly/FriendFinder#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
 }
