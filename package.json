@@ -1,25 +1,25 @@
 {
-	"name": "friendfinder",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
 
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/jamesjkelly/FriendFinder.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjkelly/FriendFinder.git"
+  },
 
-	"author": "jim kelly",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/jamesjkelly/FriendFinder/issues"
-	},
-	"homepage": "https://github.com/jamesjkelly/FriendFinder#readme",
-	"dependencies": {
-		"body-parser": "^1.18.2",
-		"path": "^0.12.7"
-	},
-	"scripts": {
-		"start": "node server.js"
-	}
+  "author": "jim kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjkelly/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jamesjkelly/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
 }
