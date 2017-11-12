@@ -10,11 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/jamesjkelly/FriendFinder.git"
   },
-  "keywords": [
-    "friend",
-    "finder"
-  ],
-  "author": "jim kelly",
+  
+"author": "jim kelly",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jamesjkelly/FriendFinder/issues"
@@ -23,5 +20,8 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "path": "^0.12.7"
-  },  
+  },
+     "engines": {
+    "node": "4.1.1"
+  }
 }
